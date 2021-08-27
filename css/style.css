@@ -54,7 +54,7 @@ section.text-reviews div.reviews div.stars-rating {
   display: flex;
   align-items: center;
   background-color: #f7f2f7;
-  padding: 10px 40px 10px 20px;
+  padding: 10px 40px 10px 40px;
   border-radius: 10px;
   font-size: 15px;
   color: #502050;
